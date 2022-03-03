@@ -4,4 +4,4 @@ module.exports = function(deployer) {
   deployer.deploy(Migrations);
 };
 	
-module.exports asdfasdf
+module.exports asdfasdfasdfasdf
