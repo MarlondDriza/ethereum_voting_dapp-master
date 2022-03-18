@@ -11,3 +11,4 @@ module.exports = function(deployer) {
   deployer.deploy(ECRecovery);
   deployer.link(ECRecovery, Voting);
   deployer.deploy(Voting, ['Alice', 'Bob', 'Carol'], [alice_
+adsfads
