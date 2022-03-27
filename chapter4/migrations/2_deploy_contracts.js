@@ -12,8 +12,4 @@ module.exports = function(deployer) {
   deployer.link(ECRecovery, Voting);
   deployer.deploy(Voting, ['Alice', 'Bob', 'Carol'], [alice_
 
-rted
-gd
-gvs
-fgsdf
-adfsgdsf
+gsdfgsadfg                            
