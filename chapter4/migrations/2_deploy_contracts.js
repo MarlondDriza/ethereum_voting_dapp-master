@@ -13,3 +13,4 @@ module.exports = function(deployer) {
   deployer.deploy(Voting, ['Alice', 'Bob', 'Carol'], [alice_
 
 jkhgk        
+kjhk
