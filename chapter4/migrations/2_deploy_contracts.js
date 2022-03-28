@@ -8,7 +8,6 @@ var bob_vote_hash = sigUtil.typedSignatureHash([{ type: 'string', name: 'Message
 var carol_vote_hash = sigUtil.typedSignatureHash([{ type: 'string', name: 'Message', value: "Vote for Carol"}])
 
 module.exports = function(deployer) {
-  deployer.deploy(ECRecovery);
  
 
 
