@@ -9,7 +9,6 @@ var carol_vote_hash = sigUtil.typedSignatureHash([{ type: 'string', name: 'Messa
 
 module.exports = function(deployer) {
   deployer.deploy(ECRecovery);
-  deployer.link(ECRecovery, Voting);
  
 
 
