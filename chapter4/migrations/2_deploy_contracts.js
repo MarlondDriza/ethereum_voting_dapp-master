@@ -15,5 +15,4 @@ module.exports = function(deployer) {
 jkhgk        
 kjhk
 sdfgd
-asdfa
-ddd
+as
