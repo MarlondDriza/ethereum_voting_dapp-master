@@ -10,3 +10,4 @@ var carol_vote_hash = sigUtil.typedSignatureHash([{ type: 'string', name: 'Messa
 
 sg
 adf
+sef
